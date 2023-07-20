@@ -1,1 +1,1 @@
-Deep Learning Project for Hotspot Detection in ICCAD 2012 Dataset
+Deep Learning Project for Hotspot Detection on ICCAD 2012 Dataset
